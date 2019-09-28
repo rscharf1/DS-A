@@ -1,4 +1,13 @@
-# Data Structures
-- Linked List
-- Stack
-- Queue
+# Data Structures  
+- Linked List  
+- Stack  
+- Queue  
+- ArrayList    
+
+### ArrayList  
+  
+### Linked List  
+
+### Stack  
+
+### Queue  

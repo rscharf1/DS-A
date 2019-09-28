@@ -6,6 +6,7 @@ import java.util.*;
 public class queue {
 
 	public static void main(String[] args) {
+		// initialize queue
 		Queue<Integer> q = new LinkedList<>(); 
 		
 		// add elements 0-4 to the queue
