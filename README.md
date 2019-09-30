@@ -2,7 +2,9 @@
 - Linked List  
 - Stack  
 - Queue  
-- ArrayList    
+- ArrayList
+- HashMap
+- HashSet   
 
 ### ArrayList  
   
@@ -11,3 +13,6 @@
 ### Stack  
 
 ### Queue  
+
+#Algorithms
+- Binary Search
