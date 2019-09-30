@@ -1,18 +1,22 @@
 # Data Structures  
+- ArrayList
 - Linked List  
 - Stack  
 - Queue  
-- ArrayList
 - HashMap
 - HashSet   
 
-### ArrayList  
+#### ArrayList  
   
-### Linked List  
+#### Linked List  
 
-### Stack  
+#### Stack  
 
-### Queue  
+#### Queue  
+
+#### HashMap
+
+#### HashSet  
 
 # Algorithms
 - Binary Search
