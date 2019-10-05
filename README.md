@@ -7,7 +7,7 @@
 - HashSet   
 
 #### ArrayList  
-> Description  
+> Description.  
 |Operation       	 |Time Complexity|
 |--------------------|---------------|
 |.add(element)       |O(1): amortized|
