@@ -8,6 +8,7 @@
 
 #### ArrayList  
 > Description.  
+
 |Operation       	 |Time Complexity|
 |--------------------|---------------|
 |.add(element)       |O(1): amortized|
