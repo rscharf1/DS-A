@@ -21,9 +21,13 @@ public class arraylist {
 		cars.set(0, "Audi"); 
 		System.out.println(cars);
 		
+		cars.add(2, "test");
+		
 		// remove item
 		cars.remove(0); 
 		System.out.println(cars);
+		
+		
 		
 		// size
 		System.out.println("Size: " + cars.size());
