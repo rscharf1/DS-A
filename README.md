@@ -45,6 +45,15 @@
 |.size()			 |O(1)			 |
 
 #### HashMap
+|Operation       	  |Time Complexity|
+|-------------------- |---------------|
+|.put(key, index)     |O(1)			 |              
+|.get(key)   	 	  |O(1)			 |
+|.remove(key)		  |O(1)			 |
+|.containsKey(key)	  |O(1)	         |
+|.containsValue(value)|O(n)			 |
+|.isEmpty()	 		  |O(1)			 |
+|.size()			  |O(1)			 |
 
 #### HashSet  
 

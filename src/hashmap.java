@@ -24,6 +24,10 @@ public class hashmap {
 		System.out.println("Size: " + cities.size());
 		
 		System.out.println("Is empty? " + cities.isEmpty());
+		
+		System.out.println("Contains Norway? " + cities.containsKey("Norway"));
+		
+		System.out.println("Contains Oslo? " + cities.containsValue("Oslo"));
 
 	}
 
