@@ -55,7 +55,14 @@
 |.isEmpty()	 		  |O(1)			 |
 |.size()			  |O(1)			 |
 
-#### HashSet  
+#### HashSet
+|Operation       	  |Time Complexity|
+|-------------------- |---------------|
+|.add(element)        |O(1)			 |              
+|.remove(element)	  |O(1)			 |
+|.contains(element)	  |O(1)	         |
+|.isEmpty()	 		  |O(1)			 |
+|.size()			  |O(1)			 |
 
 # Algorithms
-- Binary Search
+- Binary Search - O(log n)
