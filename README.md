@@ -27,6 +27,7 @@
 > Elements are stored as a list of nodes  
 > Starting at the root, each node has a value and a pointer to the next node  
 > Never contains empty nodes so the space complexity is better than an ArrayList  
+  
 |Operation       	 |Time Complexity|
 |--------------------|---------------|
 |.add(element)       |O(1)			 |              
