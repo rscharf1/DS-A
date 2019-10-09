@@ -5,9 +5,12 @@
 - Queue  
 - HashMap
 - HashSet   
+- PriorityQueue
 
 #### ArrayList  
-> Description.  
+> Different from a normal array in that it has a dynamic size
+> When the array needs more space, a new array that is double the original size is created
+> Creates new array, copies existing elements, add new element 
 
 |Operation       	 |Time Complexity|
 |--------------------|---------------|
@@ -69,12 +72,12 @@
 #### PriorityQueue
 |Operation       	  |Time Complexity|
 |-------------------- |---------------|
-|.add(element)        |O(1)			 |              
-|.poll()	  		  |O(1)			 |
-|.contains(element)	  |O(n)	         |
-|.remove()	 		  |O(1)			 |
-|.isEmpty()			  |O(1)				 |
-|.size()			  |O(1)			 |
+|.add(element)        |O(log n)		  |              
+|.poll()	  		  |O(1)			  |
+|.contains(element)	  |O(n)	          |
+|.remove()	 		  |O(log n)		  |
+|.isEmpty()			  |O(1)			  |
+|.size()			  |O(1)			  |
 
 # Algorithms
 - Binary Search - O(log n)
