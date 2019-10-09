@@ -8,9 +8,9 @@
 - PriorityQueue
 
 #### ArrayList  
-> Different from a normal array in that it has a dynamic size
-> When the array needs more space, a new array that is double the original size is created
-> Creates new array, copies existing elements, add new element 
+> Different from a normal array in that it has a dynamic size  
+> When the array needs more space, a new array that is double the original size is created  
+> Creates new array, copies existing elements, add new element   
 
 |Operation       	 |Time Complexity|
 |--------------------|---------------|
