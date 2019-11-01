@@ -1,3 +1,4 @@
+package DataStructures;
 // Queue methods: add, remove, peek, isEmpty, size
 // Think a line, where the people who joined first are the first to get off of the line
 

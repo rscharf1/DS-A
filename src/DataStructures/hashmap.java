@@ -1,3 +1,4 @@
+package DataStructures;
 // HashMap methods: put, get, remove, size, isEmpty
 import java.util.*;
 

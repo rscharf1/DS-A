@@ -1,3 +1,4 @@
+package DataStructures;
 // Stack methods: push, pop, peek, isEmpty, size
 // Think stack of plates, where the element that was just added is the next to be removed
 

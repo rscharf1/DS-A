@@ -1,3 +1,4 @@
+package DataStructures;
 // HashSet methods: add, remove, contains, size, isEmpty
 
 import java.util.*; 

@@ -1,3 +1,4 @@
+package DataStructures;
 // LinkedList methods: add, remove, contains, size
 import java.util.LinkedList; 
 
