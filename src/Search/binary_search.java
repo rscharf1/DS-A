@@ -23,8 +23,5 @@ public class binary_search {
 		else {
 			return search(arr, low, mid-1, find);
 		}
-
-
 	}
-
 }
