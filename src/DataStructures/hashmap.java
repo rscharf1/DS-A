@@ -29,6 +29,12 @@ public class hashmap {
 		System.out.println("Contains Norway? " + cities.containsKey("Norway"));
 		
 		System.out.println("Contains Oslo? " + cities.containsValue("Oslo"));
+		
+		System.out.println();
+		
+		for (Map.Entry<String, String> entry : cities.entrySet()) {
+		    System.out.println(entry.getKey() + " = " + entry.getValue());
+		}
 
 	}
 
